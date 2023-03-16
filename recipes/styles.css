@@ -1,0 +1,20 @@
+*{
+    background-color: grey; 
+}
+
+div 
+    {
+   text-align: center; 
+    }
+
+ h1,
+ p{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.435);
+ }   
+
+ li{
+    font-style: italic;
+    color: rgb(152, 81, 81);
+ }
